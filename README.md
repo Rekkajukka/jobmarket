@@ -1,6 +1,7 @@
 # jobmarket
->Karl Joosep Põldsepp
->Joosep Luts
+Karl Joosep Põldsepp
+Joosep Luts
+
 When the time arrived to choose a topic for the project in the “Intruduction to Data Science” course, we arrived at the conclusion, that in this time of many crossroads in our young lives, it matters to choose a path most relevant to ourselves, be it pursuit of career or academic knoweledge. Thus we reached to the job vacancy websites, to extract information about situation in the job market. Which specialications are most in need on nowadays market, how usefull is a university degree and what are the expected wages.
 
 Data: 
