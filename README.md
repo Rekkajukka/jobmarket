@@ -1,6 +1,10 @@
 # jobmarket
 Karl Joosep Põldsepp
 Joosep Luts
+Jobmarket.ipynb contains Kaggle Linkedin Data cleaning and salary prediction models and plots for analysis.
+Töötukassa.ipynb contains pull requests and cleaning of töötukassa api and comparative analysis of Linkedin and Töötukassa to each other.
+
+About our Project:
 
 When the time arrived to choose a topic for the project in the “Intruduction to Data Science” course, we arrived at the conclusion, that in this time of many crossroads in our young lives, it matters to choose a path most relevant to ourselves, be it pursuit of career or academic knoweledge. Thus we reached to the job vacancy websites, to extract information about situation in the job market. Which specialications are most in need on nowadays market, how usefull is a university degree and what are the expected wages.
 
@@ -27,3 +31,4 @@ To identify patterns in salary based on factors like industry, job title, and lo
 Success Criteria
 Generation of actionable insights that can be utilized to improve our study, job search and 
 application strategies.
+
