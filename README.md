@@ -15,6 +15,7 @@ https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/
 job posting
 https://www.tootukassa.ee/api/toopakkumised
 3Mb of Töötukassa ocntaining 3,000 job postings
+Can be aquired with requests, api is updated daily.
 
 Project Plan
 Data Collection and Cleaning (12 hours total)
@@ -32,4 +33,6 @@ To identify patterns in salary based on factors like industry, job title, and lo
 Success Criteria
 Generation of actionable insights that can be utilized to improve our study, job search and 
 application strategies.
+
+
 
