@@ -3,8 +3,11 @@ Karl Joosep Põldsepp
 Joosep Luts
 
 Directions:
+
 Jobmarket.ipynb contains Kaggle Linkedin Data cleaning and salary prediction models and plots for analysis.
+
 Töötukassa.ipynb contains pull requests and cleaning of töötukassa api and comparative analysis of Linkedin and Töötukassa to each other.
+
 Scrapping not included on poster (EXTRA)scrapping.ipynb
 
 
