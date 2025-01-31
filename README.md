@@ -14,14 +14,14 @@ Scrapping not included on poster (EXTRA)scrapping.ipynb
 
 About our Project:
 
-When the time arrived to choose a topic for the project in the “Intruduction to Data Science” course, we arrived at the conclusion, that in this time of many crossroads in our young lives, it matters to choose a path most relevant to ourselves, be it pursuit of career or academic knoweledge. Thus we reached to the job vacancy websites, to extract information about situation in the job market. Which specialications are most in need on nowadays market, how usefull is a university degree and what are the expected wages.
+When the time arrived to choose a topic for the project in the “Intruduction to Data Science” course, we arrived at the conclusion, that in this time of many crossroads in our young lives, it matters to choose a path most relevant to ourselves, be it pursuit of career or academic knoweledge. Thus we reached to the job vacancy websites, to extract information about situation in the job market. Which specialications are most in need on nowadays market, how useful is a university degree and what are the expected wages.
 
 Data: 
 https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/ 
 47 Mb of Linkedin dataset contains a nearly comprehensive record of 33,000+ 
 job posting
 https://www.tootukassa.ee/api/toopakkumised
-3Mb of Töötukassa ocntaining 3,000 job postings
+3Mb of Töötukassa containing 3,000 job postings
 Can be aquired with requests, api is updated daily.
 
 Project Plan
